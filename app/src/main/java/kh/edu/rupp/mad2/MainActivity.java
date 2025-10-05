@@ -1,4 +1,7 @@
 package kh.edu.rupp.mad2;
 
-public class MainActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
+
 }
